@@ -1,4 +1,4 @@
-# Alacritty Theme Manager
+# themer 
 
 A lightweight and efficient command-line utility to manage and switch Alacritty themes with ease.
 
@@ -126,3 +126,4 @@ This project is licensed under the [GPLv3 License](LICENSE).
 ## Acknowledgments
 
 - Themes courtesy of https://github.com/alacritty/alacritty-theme
+
