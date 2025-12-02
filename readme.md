@@ -24,8 +24,8 @@ https://github.com/user-attachments/assets/fe4dbce2-c21f-4850-ba22-50e20c9bc673
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/gagehenrich/alacritty-theme-mgr.git
-   cd alacritty-theme-manager
+   git clone https://github.com/gagehenrich/themer.git
+   cd themer
    ```
 2. Optional: configure `./alacritty.toml` to your desired configuration (but do not modify the theme import).
 3. Run the `make` command:
@@ -126,4 +126,5 @@ This project is licensed under the [GPLv3 License](LICENSE).
 ## Acknowledgments
 
 - Themes courtesy of https://github.com/alacritty/alacritty-theme
+
 
